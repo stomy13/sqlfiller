@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"sqlfiller/pkg/sqlform"
+	"sqlgenerate-cli/pkg/sqlform"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module sqlfiller
+module sqlgenerate-cli
 
 go 1.22.4
 
